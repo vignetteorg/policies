@@ -9,7 +9,7 @@ knyttet til den enkelte del av Leveransen.
 
 ## Definisjon
 
-Med Vignette AS menes Vignette AS med organisasjonsnummer 998 732 867 registrert
+Med Vignette AS menes Vignette AS med organisasjonsnummer 929 602 544 registrert
 Brønnøysundregistrene. Med «Kunden» menes den person eller instans som bestiller
 en tjeneste eller et produkt fra Leverandøren.
 
